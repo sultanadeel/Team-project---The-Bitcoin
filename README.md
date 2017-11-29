@@ -33,7 +33,8 @@ The datasets did not require much cleaning, we renamed some columns and integrat
 Data about Open, High, Low, Close prices of cryptocurrencies(Bitcoin, Litecoin, Monero, Ethereum):<br />
 https://www.kaggle.com/team-ai/bitcoin-price-prediction/data, https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data<br />
 Data about S&P 500 and Nasdaq Index: <br />
-https://finance.yahoo.com/quote/%5EIXIC/history?period1=34588800&period2=1511510400&interval=1d&filter=history&frequency=1d, http://www.nasdaq.com/symbol/spy/historical<br />
+http://www.nasdaq.com/symbol/spy/historical, <br />
+https://finance.yahoo.com/quote/%5EIXIC/history?period1=34588800&period2=1511510400&interval=1d&filter=history&frequency=1d <br />
 Data about Bitcoin and Ethereum's Return on Investment(ROI) since they are being used as Initial Coin Offerings(ICO):<br />
 https://www.icostats.com/vs-btc <br />
 Data about Number of Transactions per day for Bitcoin and Ethereum:<br />
