@@ -56,7 +56,7 @@ Bitcoin, being the oldest in the cryptocurrency market provides a peer-to-peer t
 #### * Bitcoin & Ethereum Bollinger bands comparing moving averages
 
 ![image6](https://user-images.githubusercontent.com/32077698/33450016-5bb92d26-d5bf-11e7-983f-ebe058657b24.png)
-![image7](https://user-images.githubusercontent.com/32077698/33450017-5c161414-d5bf-11e7-8bc1-4557e91312ac.png)
+![image7](https://user-images.githubusercontent.com/32077698/33456762-3ce1e382-d5d5-11e7-85df-b1808fbb32a1.png)
 
 The above Tableau visual shows the Bollinger Bands for Bitcoin and Ethereum's price using moving average and utilizing the lower and upper band as price indicators. As we see, Bitcoin has witnessed a steady rise and its moving average has reasonably stayed with the lower and upper bands. This indicates less volatility and better foreseeability for prospective investors interested in investing in Bitcoin while for Ethereum, since upper and lower bands indicate volatility, we can see that it has suffered a drastic volatility in 2017 as the bands widened in the gap from the moving average in the middle. Though this trend was witnessed by almost all of the major cryptocurrencies in the year 2017 but volatility of Ethereum was higher than that of Bitcoin.<br />
 The reason being, Ethereum is an altcoin which makes it more prone to pump and dump behavior and less likely to be considered a long term asset. So, Ethereum being new to market is experiencing high supply ans people can move it around faster because of its low fees and block times.
