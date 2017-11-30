@@ -46,23 +46,27 @@ http://www.global-view.com/forex-trading-tools/forex-history/, http://www.macrot
 ### Here is the link to juypter notebook: <br />
 
 ### 3. Intermediate Prototypes:
-#### * Bitcoin & Ethereum Candlesticks showing change in prices over time 
+#### * Comparing 3 cryptocurrencies(Bitcoin, Ethereum and Litecoin) Candlesticks showing change in prices over time 
 
 ![image4](https://user-images.githubusercontent.com/32077698/33450014-5b628408-d5bf-11e7-8ae2-c505d2eb18bc.png)
 ![image5](https://user-images.githubusercontent.com/32077698/33450015-5b7cec62-d5bf-11e7-8b25-bfb7637a78ae.png)
+![image13](https://user-images.githubusercontent.com/32077698/33457285-def130e6-d5d6-11e7-9537-727e2fd1479a.png)
 
-Bitcoin, being the oldest in the cryptocurrency market provides a peer-to-peer transaction for all prospective investors and Ethereum is its biggest competitor. The above two graphs show candlestick charts for Bitcoin and Ethereum showing the historical price pattern of both, since Ethereum was launched in 2015, we have taken a timeline of 2013-2017. As we observe, Bitcoin has witnessed a tremendous increase in its market price since inception and has remained the least volatile cryptocurrency in terms of investment and the price appreciation over the recent years when compared to Ethereum, which had a wide volatility rate in 2017. Despite being considered and generally perceived to be a digital currency which in technical terms, Bitcoin is, it is however currently operated as an investment with exceptionally great profit margins as mentioned in other metrics. 
+Bitcoin, being the oldest in the cryptocurrency market provides a peer-to-peer transaction for all prospective investors and Ethereum is its biggest competitor. The above three graphs show candlestick charts for Bitcoin, Ethereum and Litecoin showing the historical price pattern, since Ethereum was launched in 2015, we have taken a timeline of 2013-2017. As we observe, Bitcoin has witnessed a tremendous increase in its market price since inception and has remained the least volatile cryptocurrency in terms of investment and the price appreciation over the recent years when compared to Ethereum, which had a wide volatility rate in 2017. Despite being considered and generally perceived to be a digital currency which in technical terms, Bitcoin is, it is however currently operated as an investment with exceptionally great profit margins as mentioned in other metrics. 
+For Litecoin, we can see that Litecoin’s price suffered high fluctuations in 2014 and 2017 primarily due to its digital currency feature. Litecoin’s market capitalization stands at $3.77 Billion and is seventh in terms of ranking among the cryptocurrencies. It is highly volatile when compared to Bitcoin because whenever it experiences an upstick, after that it suffers a high drop.
 
-#### * Bitcoin & Ethereum Bollinger bands comparing moving averages
+
+#### * Bitcoin, Ethereum and Litecoin's Bollinger bands comparing moving averages
 
 ![image6](https://user-images.githubusercontent.com/32077698/33450016-5bb92d26-d5bf-11e7-983f-ebe058657b24.png)
 ![image7](https://user-images.githubusercontent.com/32077698/33456762-3ce1e382-d5d5-11e7-85df-b1808fbb32a1.png)
+![image14](https://user-images.githubusercontent.com/32077698/33457286-df12adac-d5d6-11e7-898e-aa72ee2b23d8.png)
 
-The above Tableau visual shows the Bollinger Bands for Bitcoin and Ethereum's price using moving average and utilizing the lower and upper band as price indicators. As we see, Bitcoin has witnessed a steady rise and its moving average has reasonably stayed with the lower and upper bands. This indicates less volatility and better foreseeability for prospective investors interested in investing in Bitcoin while for Ethereum, since upper and lower bands indicate volatility, we can see that it has suffered a drastic volatility in 2017 as the bands widened in the gap from the moving average in the middle. Though this trend was witnessed by almost all of the major cryptocurrencies in the year 2017 but volatility of Ethereum was higher than that of Bitcoin.<br />
-The reason being, Ethereum is an altcoin which makes it more prone to pump and dump behavior and less likely to be considered a long term asset. So, Ethereum being new to market is experiencing high supply ans people can move it around faster because of its low fees and block times.
+The above Tableau visual shows the Bollinger Bands for Bitcoin, Ethereum and Litecoin's price using moving average and utilizing the lower and upper band as price indicators. As we see, Bitcoin has witnessed a steady rise and its moving average has reasonably stayed with the lower and upper bands. This indicates less volatility and better foreseeability for prospective investors interested in investing in Bitcoin while for Ethereum, since upper and lower bands indicate volatility, we can see that it has suffered a drastic volatility in 2017 as the bands widened in the gap from the moving average in the middle. Though this trend was witnessed by almost all of the major cryptocurrencies in the year 2017 but volatility of Ethereum was higher than that of Bitcoin.<br />
+The reason being, Ethereum is an altcoin which makes it more prone to pump and dump behavior and less likely to be considered a long term asset. So, Ethereum being new to market is experiencing high supply ans people can move it around faster because of its low fees and block times. Litecoin also has high volatility as compared to bitcoin, as there is more gap in upper and lower bands.
 
 ### Disadvantages of above charts:
-The charts above cannot be compared on similar grounds as they both have different scales because of different average prices over the years and it is just plotting the absolute values. Also, for Ethereum since we are taking everyday values, tableau is putting a particular month three or four times to show the moving dates, which should not be the case. It would be interesting to summarize the charts into one by taking the percentage difference of average closing prices on one axis, so that we can have standard grounds for comparison and based on that we can show how one is better than the other. This will also strike out the problem of "Eye beats memory".
+The charts above cannot be compared on similar grounds as they all have different scales because of different average prices over the years and we are just plotting the absolute values. Also, for Ethereum since we are taking everyday values, tableau is putting a particular month three or four times to show the moving dates, which should not be the case. It would be interesting to summarize the charts into one by taking the percentage difference of average closing prices on one axis, so that we can have standard grounds for comparison and based on that we can show how one is better than the other. This will also strike out the problem of "Eye beats memory".
 
 
 #### * Comparing Bitcoin with S&P and Nasdaq Index
@@ -103,15 +107,27 @@ By observing the market trends of bitcoin against S&P 500 and Nasdaq, we all kno
 ### Ethereum has better ROI since ICO
 Image13
 
-The visualization above shows the Initial coin offering(ICO) names and the ROI for Bitcoin and Ethereum since they have started being used as ICO. This shows that Ethereum is better than Bitcoin when it comes to ROI
+Initial Coin offerings(ICOs) have now grown to be the next big thing for startups rather than all of the Venture capital, using cryptocurrency as the source of capital. ICOs have raised nearly $2.3billion, with majority of it being raised in 2017. The visualization above shows the Initial coin offering(ICO) names and the ROI for Bitcoin and Ethereum since they have started being used as ICO. This shows that Ethereum is better than Bitcoin when it comes to ROI. Ethereum is the block chain-based platform where majority of the ICOs have been developed and hence it is more recognised in the ICO world. 
+The reasons behind the growth of cryptocurrencies as ICO is certainly the increasing prices and adoption of block chain technology by the start ups rather than using the traditional innovation strategies. The investors who invested in early stages have received incredible returns which have made the new investors curious to explore the world of cryptocurrencies. Though Bitcoin is soaring high everyday but when it comes to Return on Investments, Ethereum goes to the first position, it is among the top performers according to icostats.com with 126,300% ROI since ICO for NXT.
 
 ## Link to Tableau Public:<br />
 
+
 ## Conclusion: 
+We can agree, the recent eye-popping gains in the cryptocurrency are hard to ignore, and for investors who want to expand their horizon in the investment market, definitely Bitcoin is the ideal stop. Risk is a part of any kind of investment, be it real estate, gold, oil or other currencies like USD/EURO or iconic companies like S&P 500. The potential of blockchain technology that underlies these virtual currencies is the new age technology. Many startups have started making use of it and also financial markets like Nasdaq have planned to introduce Bitcoin futures starting from next year. When it comes to taxation, the IRS views bitcoin and other virtual currencies as similar to stocks and bonds, and federal tax law dictates that purchasers and/or sellers must treat it as such. As far is limited bitcoin generation capability is concerned, as the Bitcoins will start becoming scarce(and that too in 2140 which is a very long time), the prices will rise as the demands will start increasing. Hence, after analyzing the benefits and risks, we can say that benefits outweigh the risks and Bitcoin, the Internet of money is a safe Investment!
+
 
 ## RoadMap for future Enhancements:
-* 
+* Can explore the NVT ratio(Bitcoin's PE ratio), which is Network Value to Transactions Ratio. In traditional stock markets, PE ratio has been a long standing tool for valuing companies, where high ratio indicates that company has high growth. NVT is the bitcoin equivalent for PE(Price-earnings)ratio. For bitcoin, we have price per token but for earnings sake, we can consider the money flowing through its market as earnings. We have a chart from the website **woobull.com** that displays Network Value and Transaction value for Bitcoin and indicates that idea to use money flowing through bitcoin network as network valuation in the ratio is valid.
 
+![image15](https://user-images.githubusercontent.com/32077698/33459979-053b2496-d5e1-11e7-87ca-2fc2bde1be66.png)
+
+NVT helps to determine, if a price hike is a bubble or not. So lets see the graph showing NVT ratio to test the Bitcoin's market in October 2017, when the network valuation for bitcoin dropped from $81b to $49b. The NVT ratio is within the normal bounds which indicates a price consolidation and not a price crash. Hence, the transaction value flowing through bitcoin's network is healthy and not a bubble.
+
+![image16](https://user-images.githubusercontent.com/32077698/33459980-0559515a-d5e1-11e7-997a-5d18275bb98d.png)
+
+So, we can further work on more data to find this metrics and identify a bubble.<br />
+*
 
 
 
@@ -124,3 +140,5 @@ The visualization above shows the Initial coin offering(ICO) names and the ROI f
 http://markets.businessinsider.com/currencies/news/bitcoin-pizza-10000-100-million-2017-11-1009827466
 https://www.coindesk.com/sp-cryptocurrency-contextualizing-bitcoins-price-explosion/
 https://support.coinbase.com/customer/portal/articles/1834921-why-does-bitcoin-change-value-why-is-the-price-so-volatile-
+https://www.forbes.com/sites/chancebarnett/2017/09/23/inside-the-meteoric-rise-of-icos/#40d1d8985670
+http://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/
