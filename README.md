@@ -45,46 +45,71 @@ Data comparing EURO, USD Index prices:<br />
 http://www.global-view.com/forex-trading-tools/forex-history/, http://www.macrotrends.net/1329/us-dollar-index-historical-chart <br />
 ##### Here is the link to juypter notebook: <br />
 
-### 3. Visualizations showing Metrics:
-#### Metrics 1: A $1000 investment in 2013, would have got you a minimum of 1700% in profits today!
-Image2
+### 3. Intermediate Prototypes:
+#### * Bitcoin & Ethereum Candlesticks showing change in prices over time
 
-The Visualization above shows a hindsight view of the value of Bitcoin against the major established currencies like USD and Euro in the market. The Cryptocurrency market is different from the Currency market in a way that the currencies are highly circulated to buy/sell goods and services globally and every platform accept these for transactions. But for Bitcoin, there are not as many platforms as other currencies have for tranactions, people have lately started to accept it. But as we observe the graph, the scale of the value of the investments in the Cryptocurrency market is very high. So, based on the past market trends of bitcoin, we can say that if you invest in bitcoin even today, it can promise you higher returns in the future. Bitcoin is indeed, a highly-valued asset to have!
+![image4](https://user-images.githubusercontent.com/32077698/33450014-5b628408-d5bf-11e7-8ae2-c505d2eb18bc.png)
+![image5](https://user-images.githubusercontent.com/32077698/33450015-5b7cec62-d5bf-11e7-8b25-bfb7637a78ae.png)
 
-#### Metrics 2: Bitcoin is an asset, Not a currency!
-Image3
-
-The visualization above shows the number of transactions per day of Bitcoin compared to Ethereum(the second best in the cryptocurrency market). Though Bitcoin came in early (around 2009) the number of transactions per day using bitcoin have not increased very much- just 240K. This number when compared to the time frame which is 8 years is very less, considering the fact that this is a currency. The reason behind this – A Lot of people are buying bitcoins but are not using them in day-to-day transactions as they are treating them as an investment, a long term asset to keep. The comparison with Ethereum makes it clearer. Ethereum has almost double the amount of transactions which means that people are not willing to use it as an asset rather a mode of exchange. Therefore, we can conclude Bitcoin is an asset, not a currency as perceived by people!
-
-#### Metrics 3: Bitcoin, an ideal investment when compared to other cryptocurrencies!
-Image4
-
-Bitcoin, being the oldest in the cryptocurrency market provides a peer-to-peer transaction for all prospective investors and Ethereum is its biggest competitor. The above dashboard shows candlestick charts for Bitcoin and Ethereum showing the historical price pattern of both, since Ethereum was launched in 2015, we have taken a timeline of 2013-2017. As we observe, Bitcoin has witnessed a tremendous increase in its market price since inception and has remained the least volatile cryptocurrency in terms of investment and the price appreciation over the recent years when compared to Ethereum, which had a wide volatility rate in 2017. Despite being considered and generally perceived to be a digital currency which in technical terms, Bitcoin is, it is however currently operated as an investment with exceptionally great profit margins as mentioned in other metrics.
+Bitcoin, being the oldest in the cryptocurrency market provides a peer-to-peer transaction for all prospective investors and Ethereum is its biggest competitor. The above two graphs show candlestick charts for Bitcoin and Ethereum showing the historical price pattern of both, since Ethereum was launched in 2015, we have taken a timeline of 2013-2017. As we observe, Bitcoin has witnessed a tremendous increase in its market price since inception and has remained the least volatile cryptocurrency in terms of investment and the price appreciation over the recent years when compared to Ethereum, which had a wide volatility rate in 2017. Despite being considered and generally perceived to be a digital currency which in technical terms, Bitcoin is, it is however currently operated as an investment with exceptionally great profit margins as mentioned in other metrics.
 
 The reason behind considering Bitcoin an ideal investment is, Bitcoin has high liquidity and market capitalization among other currencies. In 2017, there has been a drastic increase of around 975% in its market price and has market capitalization of almost $70 Billion. Many financial institutions and banks like J.P. Morgan have announced their plans to introduce cryptocurrency future which would provide attractive investment opportunities to all the prospective investors and would bring more stability in the market of cryptocurrencies. Bitcoin investment would enable investors to utilize portfolio diversification, hedge their foreseeable risk and maximize the future expected return.
 
-#### Bitcoin, less volatile than Ethereum!
-Image5
+#### * Bitcoin & Ethereum Bollinger bands comparing moving averages
+
+![image6](https://user-images.githubusercontent.com/32077698/33450016-5bb92d26-d5bf-11e7-983f-ebe058657b24.png)
+![image7](https://user-images.githubusercontent.com/32077698/33450017-5c161414-d5bf-11e7-8bc1-4557e91312ac.png)
 
 The above Tableau visual shows the Bollinger Bands for Bitcoin and Ethereum's price using moving average and utilizing the lower and upper band as price indicators. As we see, Bitcoin has witnessed a steady rise and its moving average has reasonably stayed with the lower and upper bands. This indicates less volatility and better foreseeability for prospective investors interested in investing in Bitcoin while for Ethereum, since upper and lower bands indicate volatility, we can see that it has suffered a drastic volatility in 2017 as the bands widened in the gap from the moving average in the middle. Though this trend was witnessed by almost all of the major cryptocurrencies in the year 2017 but volatility of Ethereum was higher than that of Bitcoin.<br />
 The reason being, Ethereum is an altcoin which makes it more prone to pump and dump behavior and less likely to be considered a long term asset. So, Ethereum being new to market is experiencing high supply ans people can move it around faster because of its low fees and block times.
 
-#### Integrated Metrics(Comparing 3 cryptocurrencies together):
-Image6
+##### Disadvantages of above charts::
 
-#### Metrics 4: Bitcoin's surge makes it bigger than these iconic companies!
-Image7
 
+#### Comparing Bitcoin with S&P and Nasdaq Index
+
+![image4](https://user-images.githubusercontent.com/32077698/33450014-5b628408-d5bf-11e7-8ae2-c505d2eb18bc.png)
+![image9](https://user-images.githubusercontent.com/32077698/33450018-5c4af7c4-d5bf-11e7-8981-8abf78a401c4.png)
+![image10](https://user-images.githubusercontent.com/32077698/33450019-5caaa71e-d5bf-11e7-80a9-3300e0427306.png)
+
+##### Disadvantages of above charts:
+
+
+### 4. Visualizations showing Final Metrics:
+#### Metrics 1: A $1000 investment in BTC in 2013, would have got you a minimum of 1700% in profits today!
+![image2](https://user-images.githubusercontent.com/32077698/33450012-5b166a14-d5bf-11e7-81db-31428b9d64a5.png)
+
+The Visualization above shows a hindsight view of the value of Bitcoin against the major established currencies like USD and Euro in the market. The Cryptocurrency market is different from the Currency market in a way that the currencies are highly circulated to buy/sell goods and services globally and every platform accept these for transactions. But for Bitcoin, there are not as many platforms as other currencies have for tranactions, people have lately started to accept it. But as we observe the graph, the scale of the value of the investments in the Cryptocurrency market is very high. So, based on the past market trends of bitcoin, we can say that if you invest in bitcoin even today, it can promise you higher returns in the future. Bitcoin is indeed, a highly-valued asset to have!
+
+#### Metrics 2: Bitcoin is an asset, Not a currency!
+![image3](https://user-images.githubusercontent.com/32077698/33450013-5b41cc9a-d5bf-11e7-9d22-30fb2b7bf35d.png)
+
+The visualization above shows the number of transactions per day of Bitcoin compared to Ethereum(the second best in the cryptocurrency market). Though Bitcoin came in early (around 2009) the number of transactions per day using bitcoin have not increased very much- just 240K. This number when compared to the time frame which is 8 years is very less, considering the fact that this is a currency. The reason behind this – A Lot of people are buying bitcoins but are not using them in day-to-day transactions as they are treating them as an investment, a long term asset to keep. The comparison with Ethereum makes it clearer. Ethereum has almost double the amount of transactions which means that people are not willing to use it as an asset rather a mode of exchange. Therefore, we can conclude Bitcoin is an asset, not a currency as perceived by people!
+
+#### Metrics 3: Bitcoin, less volatile when compared to other cryptocurrencies!
 Image8
 
-Image9
+
+
+
+
+
+#### Metrics 4: S&P 500 took 30 times longer to reach where Bitcoin is today!
+Image11
+
 
 ## The Rebuttal:
 ### Ethereum has better ROI since ICO
-Image10
+Image13
 
 The visualization above shows the Initial coin offering(ICO) names and the ROI for Bitcoin and Ethereum since they have started being used as ICO. This shows that Ethereum is better than Bitcoin when it comes to ROI
 
+## Link to Tableau Public:<br />
+
+## Conclusion: 
+
+## RoadMap for future Enhancements:
+* 
 
 
 
@@ -94,7 +119,7 @@ The visualization above shows the Initial coin offering(ICO) names and the ROI f
  
  
  
- References:
+## References:
 http://markets.businessinsider.com/currencies/news/bitcoin-pizza-10000-100-million-2017-11-1009827466
 
 
