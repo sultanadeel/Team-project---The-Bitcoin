@@ -138,3 +138,5 @@ https://www.coindesk.com/sp-cryptocurrency-contextualizing-bitcoins-price-explos
 https://support.coinbase.com/customer/portal/articles/1834921-why-does-bitcoin-change-value-why-is-the-price-so-volatile-
 https://www.forbes.com/sites/chancebarnett/2017/09/23/inside-the-meteoric-rise-of-icos/#40d1d8985670
 http://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/
+Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
+Source: https://www.kaggle.com/team-ai/bitcoin-price-prediction/data
