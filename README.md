@@ -4,9 +4,10 @@
 Bitcoin, a worldwide cryptocurrency invented by an unknown person with alias Satoshi Nakamoto. It is the first decentralized digital currency, as the system works without a central repository or single administrator. The coins don’t exist in a tangible form but are made by computers and stored in a digital wallet or on the cloud but there is a finite number of bitcoin that can be supplied i.e. 21million and there are currently 16million in circulation.<br />
 
 Why this topic? Bitcoin price soars above $11000 to a new record high value! This is the headline all news channels were telecasting from the past few days. And the question in everyone's mind is **Will it survive or is it just a bubble?** The value of bitcoin is tied purely to the concept of supply and demand, as the people are getting more aware about it and buying it, the prices are increasing. As we compare to other established currencies and commodities like USD/EURO dollar or gold prices, Bitcoin has been very volatile and also the market for Bitcoin is not regulated as per the laws. Still bitcoin prices are rising wildly, you might be wondering how wild it can be - Seven years ago, two pizzas could be bought for 10,000 bitcoins, which today would be worth $100 million.<br />
+http://markets.businessinsider.com/currencies/news/bitcoin-pizza-10000-100-million-2017-11-1009827466
 Demand is increasing, alongside criticism, if you want to get involved in the cryptocurrency then awareness is the key. Therefore, we will be doing a thorough analysis about the benefits and risks involved for a potential investor willing to diversify his/her portfolio of investment and then conclude "Would it be the best use of an investor's money?"
 
-## Audience:
+## Potential Investors as Audience:
 Our targeted audience is a potential investor interested in diversifying his/her existing portfolio of investments. In order to maximize expected return and minimize foreseeable risk inherited in the current industries of his/her investments, the ultimate objective of the mentioned investor is to invest in a industry different than the existing ones, and we are analyzing the positive and negative aspects of investing in crytocurrencies, specifically Bitcoin and "Will it a profitable avenue for the audience to consider investing in?"
 
 ### Audience Need:
@@ -25,7 +26,7 @@ Being virtual and digital currencies, Cryptocurrencies are not backed by any gov
 To start with the data analysis, we collected data from 2013 to 2017 about the closing stock prices of Bitcoin and put that into tableau to get an overall picture of trends shown by Bitcoin over the time. The visualization showed, there was an increase in the price of bitcoin in the initial years because people started to get some insight about the cryptocurrency world and started buying and keeping it as an asset but then due to speculations in people’s mind that it is unstable and not legal and can crash anytime, made the prices to go down. After this, 2017 started with a bang as Bitcoin shot through the $1000 mark with no signs of slowing down and it has reached a record breaking mark of above $11000 today.<br />
 ![image1](https://user-images.githubusercontent.com/32077698/33408840-654e6eec-d52d-11e7-8470-b4f150119067.png)
 
-We collected data about the number of bitcoins in circulation. Above graph shows the increasing number of bitcoins over the years in the market. It has been forecasted that only 21m bitcoin can be generated and 16m bitcoins are already in circulation, so bitcoins are finite in number. But this can also imply that as the bitcoins become scarce, the prices are going to rise, the simple demand and supply mechanism. Higher the demand, more are the prices. <br />
+We collected data about the number of bitcoins in circulation. Above graph shows the increasing number of bitcoins over the years in the market. It has been forecasted that only 21m bitcoin can be generated and 16m bitcoins are already in circulation, so bitcoins are finite in number. But this can also imply that as the bitcoins become scarce, the prices are going to rise, the simple demand and supply mechanism. Higher the demand, more are the prices.https://support.coinbase.com/customer/portal/articles/1834921-why-does-bitcoin-change-value-why-is-the-price-so-volatile- <br />
 The reason we focussed on Bitcoin out of all the currencies, is because Bitcoin is the first one to be in the market and lot of people still are not aware of it. So, it would be interesting to see the reason behind its soaring prices and whether it is a safe currency to invest, or should you keep it as a long term asset or is it just a bubble that is soon going to crash?
 
 ### 2. Data Wrangling:
@@ -46,7 +47,7 @@ http://www.global-view.com/forex-trading-tools/forex-history/, http://www.macrot
 ### Here is the link to juypter notebook: <br />
 
 ### 3. Intermediate Prototypes:
-#### * Comparing 3 cryptocurrencies(Bitcoin, Ethereum and Litecoin) Candlesticks showing change in prices over time 
+* #### Comparing 3 cryptocurrencies(Bitcoin, Ethereum and Litecoin) Candlesticks showing change in prices over time 
 
 ![image4](https://user-images.githubusercontent.com/32077698/33450014-5b628408-d5bf-11e7-8ae2-c505d2eb18bc.png)
 ![image5](https://user-images.githubusercontent.com/32077698/33450015-5b7cec62-d5bf-11e7-8b25-bfb7637a78ae.png)
@@ -56,7 +57,7 @@ Bitcoin, being the oldest in the cryptocurrency market provides a peer-to-peer t
 For Litecoin, we can see that Litecoin’s price suffered high fluctuations in 2014 and 2017 primarily due to its digital currency feature. Litecoin’s market capitalization stands at $3.77 Billion and is seventh in terms of ranking among the cryptocurrencies. It is highly volatile when compared to Bitcoin because whenever it experiences an upstick, after that it suffers a high drop.
 
 
-#### * Bitcoin, Ethereum and Litecoin's Bollinger bands comparing moving averages
+* #### Bitcoin, Ethereum and Litecoin's Bollinger bands comparing moving averages
 
 ![image6](https://user-images.githubusercontent.com/32077698/33450016-5bb92d26-d5bf-11e7-983f-ebe058657b24.png)
 ![image7](https://user-images.githubusercontent.com/32077698/33456762-3ce1e382-d5d5-11e7-85df-b1808fbb32a1.png)
@@ -69,7 +70,7 @@ The reason being, Ethereum is an altcoin which makes it more prone to pump and d
 The charts above cannot be compared on similar grounds as they all have different scales because of different average prices over the years and we are just plotting the absolute values. Also, for Ethereum since we are taking everyday values, tableau is putting a particular month three or four times to show the moving dates, which should not be the case. It would be interesting to summarize the charts into one by taking the percentage difference of average closing prices on one axis, so that we can have standard grounds for comparison and based on that we can show how one is better than the other. This will also strike out the problem of "Eye beats memory".
 
 
-#### * Comparing Bitcoin with S&P and Nasdaq Index
+* #### Comparing Bitcoin with S&P and Nasdaq Index
 
 ![image4](https://user-images.githubusercontent.com/32077698/33450014-5b628408-d5bf-11e7-8ae2-c505d2eb18bc.png)
 ![image9](https://user-images.githubusercontent.com/32077698/33450018-5c4af7c4-d5bf-11e7-8981-8abf78a401c4.png)
@@ -101,14 +102,14 @@ The reason behind considering Bitcoin an ideal investment is, Bitcoin has low vo
 #### Metrics 4: S&P 500 took 30 times longer to reach where Bitcoin is today!
 Image11
 
-By observing the market trends of bitcoin against S&P 500 and Nasdaq, we all know that Bitcoin has outperformed these iconic companies. Year over year, its value has risen above 600 percent. S&P 500 is often used as a benchmark to track investments by investors. Over the last 90 years, the average annual rate of return has only been 9.8% for S&P 500 while Bitcoin's moonshot rise has outperformed this benchmark by 6000 percent. Nasdaq itself is planning to introduce bitcoin futures next year, this will further push Bitcoin into the mainstream investing universe. Also, when we look at the graph it compares them on standard grounds on the same scale which gives us the clear idea, why bitcoin is the one you should invest in.
+By observing the market trends of bitcoin against S&P 500 and Nasdaq, we all know that Bitcoin has outperformed these iconic companies. Year over year, its value has risen above 600 percent. S&P 500 is often used as a benchmark to track investments by investors. Over the last 90 years, the average annual rate of return has only been 9.8% for S&P 500 while Bitcoin's moonshot rise has outperformed this benchmark by 6000 percent https://www.coindesk.com/sp-cryptocurrency-contextualizing-bitcoins-price-explosion/. Nasdaq itself is planning to introduce bitcoin futures next year, this will further push Bitcoin into the mainstream investing universe. Also, when we look at the graph it compares them on standard grounds on the same scale which gives us the clear idea, why bitcoin is the one you should invest in.
 
 ## The Rebuttal:
 ### Ethereum has better ROI since ICO
 Image13
 
 Initial Coin offerings(ICOs) have now grown to be the next big thing for startups rather than all of the Venture capital, using cryptocurrency as the source of capital. ICOs have raised nearly $2.3billion, with majority of it being raised in 2017. The visualization above shows the Initial coin offering(ICO) names and the ROI for Bitcoin and Ethereum since they have started being used as ICO. This shows that Ethereum is better than Bitcoin when it comes to ROI. Ethereum is the block chain-based platform where majority of the ICOs have been developed and hence it is more recognised in the ICO world. 
-The reasons behind the growth of cryptocurrencies as ICO is certainly the increasing prices and adoption of block chain technology by the start ups rather than using the traditional innovation strategies. The investors who invested in early stages have received incredible returns which have made the new investors curious to explore the world of cryptocurrencies. Though Bitcoin is soaring high everyday but when it comes to Return on Investments, Ethereum goes to the first position, it is among the top performers according to icostats.com with 126,300% ROI since ICO for NXT.
+The reasons behind the growth of cryptocurrencies as ICO is certainly the increasing prices and adoption of block chain technology by the start ups rather than using the traditional innovation strategies. https://www.forbes.com/sites/chancebarnett/2017/09/23/inside-the-meteoric-rise-of-icos/#792afb155670 The investors who invested in early stages have received incredible returns which have made the new investors curious to explore the world of cryptocurrencies. Though Bitcoin is soaring high everyday but when it comes to Return on Investments, Ethereum goes to the first position, it is among the top performers according to icostats.com with 126,300% ROI since ICO for NXT.
 
 ## Link to Tableau Public:<br />
 
@@ -118,6 +119,7 @@ We can agree, the recent eye-popping gains in the cryptocurrency are hard to ign
 
 
 ## RoadMap for future Enhancements:
+* Can analyze the "What if" scenarios for situational awareness.
 * Can explore the NVT ratio(Bitcoin's PE ratio), which is Network Value to Transactions Ratio. In traditional stock markets, PE ratio has been a long standing tool for valuing companies, where high ratio indicates that company has high growth. NVT is the bitcoin equivalent for PE(Price-earnings)ratio. For bitcoin, we have price per token but for earnings sake, we can consider the money flowing through its market as earnings. We have a chart from the website **woobull.com** that displays Network Value and Transaction value for Bitcoin and indicates that idea to use money flowing through bitcoin network as network valuation in the ratio is valid.
 
 ![image15](https://user-images.githubusercontent.com/32077698/33459979-053b2496-d5e1-11e7-87ca-2fc2bde1be66.png)
@@ -126,15 +128,7 @@ NVT helps to determine, if a price hike is a bubble or not. So lets see the grap
 
 ![image16](https://user-images.githubusercontent.com/32077698/33459980-0559515a-d5e1-11e7-997a-5d18275bb98d.png)
 
-So, we can further work on more data to find this metrics and identify a bubble.<br />
-*
-
-
-
- 
- 
- 
- 
+So, we can further collect more data to calculate and visualize this metrics and identify a bubble, if there is one.<br />
  
 ## References:
 http://markets.businessinsider.com/currencies/news/bitcoin-pizza-10000-100-million-2017-11-1009827466
